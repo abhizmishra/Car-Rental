@@ -4,9 +4,9 @@ function Footer() {
   return (
     <>
       <footer>
-        <div className="flex flex-wrap items-center justify-around mt-36 ">
-          <div className="flex justify-evenly gap-5 ">
-            <ul className="">
+        <div className="flex flex-wrap justify-between  mt-36 ">
+          <div className="flex flex-wrap justify-between gap-5 ">
+            <ul className="min-w-fit">
               <li className="text-2xl">
                 <span className="font-bold text-2xl  ">CAR</span> Rental
               </li>
